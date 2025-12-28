@@ -23,6 +23,9 @@
 hs_err_pid*
 replay_pid*
 
+# Production files
+out/production/
+
 # IntelliJ IDEA
 .idea/
 *.iml
